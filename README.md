@@ -1,16 +1,10 @@
 
-<br />
-<p align="center">
-  <a href="https://github.com/sn2606/TravelLog">
-    <img src="Images\alps_favicon.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">TravelLog</h3>
 
   <p align="center">
     Social Network website for sharing travel experiences & travel micro-blogging.
     <br />
-    <!-- <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a> -->
     <br />
     <!-- <br /> -->
   </p>
