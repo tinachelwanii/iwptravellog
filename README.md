@@ -91,8 +91,8 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Tina Chelwani - [@LinkedIn](https://www.linkedin.com/in/tina-c-8bb772223/) - chelwanit13@gmail.com
-Aalaya Tomar
-Project Link: [https://github.com/tinachelwanii/travellog](https://github.com/tinachelwanii/travellog)
+* Tina Chelwani - [@LinkedIn](https://www.linkedin.com/in/tina-c-8bb772223/) - chelwanit13@gmail.com
+* Aalaya Tomar
+* Project Link: [https://github.com/tinachelwanii/travellog](https://github.com/tinachelwanii/travellog)
 
 
