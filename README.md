@@ -94,5 +94,6 @@ Contributions are what make the open source community such an amazing place to b
 * Tina Chelwani - [@LinkedIn](https://www.linkedin.com/in/tina-c-8bb772223/) - chelwanit13@gmail.com
 * Aalaya Tomar
 * Project Link: [https://github.com/tinachelwanii/travellog](https://github.com/tinachelwanii/travellog)
+* Deployed Link:[https://heartfelt-pudding-157a6e.netlify.app/](https://heartfelt-pudding-157a6e.netlify.app/)
 
 
