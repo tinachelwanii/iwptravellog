@@ -59,7 +59,9 @@ To get a local copy up and running follow these simple steps.
 2. IDE of choice - e.g. [VSCode](https://code.visualstudio.com/download)
 3. Web Browser of choice - e.g. [Google Chrome](https://www.google.com/intl/en_in/chrome/) 
 
-### Installation
+### Deployed link for frontend - [https://heartfelt-pudding-157a6e.netlify.app/](https://heartfelt-pudding-157a6e.netlify.app/)
+### For Backend
+### Installation for backend 
 
 1. Start XAMPP and open phpMyAdmin on browser.
 2. Create a new database for the project and name it "travellog"
